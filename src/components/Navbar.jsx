@@ -12,7 +12,9 @@ const Navbar = () => {
         <NavLink to="/">
           <FieldsNavbar campo={"Inicio"}/>
         </NavLink>
-        <FieldsNavbar campo={"Desarrollador"}/>
+        <NavLink to="/desarrollador">
+          <FieldsNavbar campo={"Desarrollador"}/>
+          </NavLink>
         <NavLink to="/abogado">
           <FieldsNavbar campo={"Abogado"}/>
         </NavLink>
