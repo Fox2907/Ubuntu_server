@@ -4,7 +4,7 @@ import "./HomeScreen.css";
 const HomeScreen = () => {
   return (
     <div className="main">
-      <img src="/src/assets/Empresa.jpg" alt="a" className="background" />
+      <img src="/src/assets_project/Empresa.jpg" alt="a" className="background" />
       <div className="overlay">
         <h2 className="title">Experiencia. Expertise. Éxito</h2>
         <p className="paragraph">
