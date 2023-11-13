@@ -27,6 +27,9 @@ const Navbar = () => {
       <NavLink to="/secretaria">
         <FieldsNavbar campo={"Secretaria"} />
       </NavLink>
+      <NavLink to="/gerente">
+        <FieldsNavbar campo={"Gerente"} />
+      </NavLink>
     </div>
   );
 };

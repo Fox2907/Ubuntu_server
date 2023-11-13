@@ -1,119 +1,141 @@
 [
-    {
-      "path": "/abogado",
-      "title": "Abogado",
-      "image": "/src/assets_project/Abogado.jpg",
-      "description": "Descripción del abogado...",
-      "cards": [
-        {
-          "iconoCard": "/src/assets_project/Abogado.svg",
-          "tituloCard": "Derecho Corporativo",
-          "descriptionCard": "Descripción de la carta 1 del abogado"
-        },
-        {
-          "iconoCard": "/src/assets_project/Abogado.svg",
-          "tituloCard": "Derecho Corporativo",
-          "descriptionCard": "Descripción de la carta 2 del abogado"
-        },
-        {
-          "iconoCard": "/src/assets_project/Abogado.svg",
-          "tituloCard": "Derecho Corporativo",
-          "descriptionCard": "Descripción de la carta 3 del abogado"
-        }
-      ]
-
-    },
-    {
-      "path": "/desarrollador",
-      "title": "Desarrollador",
-      "image": "/src/assets_project/Abogado.jpg",
-      "description": "Descripción del desarrollador...",
-      "cards": [
-        {
-          "iconoCard": "/src/assets_project/card1-icon.png",
-          "tituloCard": "Derecho Corporativo",
-          "descriptionCard": "Descripción de la carta 1 del abogado"
-        },
-        {
-          "iconoCard": "/src/assets_project/card2-icon.png",
-          "tituloCard": "Derecho Corporativo",
-          "descriptionCard": "Descripción de la carta 2 del abogado"
-        },
-        {
-          "iconoCard": "/src/assets_project/card3-icon.png",
-          "tituloCard": "Derecho Corporativo",
-          "descriptionCard": "Descripción de la carta 3 del abogado"
-        }
-      ]
-    },
-    {
-        "path": "/marketing",
-        "title": "Marketing",
-        "image": "/src/assets_project/Abogado.jpg",
-        "description": "Descripción del marketing...",
-        "cards": [
-          {
-            "iconoCard": "/src/assets_project/card1-icon.png",
-            "tituloCard": "Derecho Corporativo",
-            "descriptionCard": "Descripción de la carta 1 del abogado"
-          },
-          {
-            "iconoCard": "/src/assets_project/card2-icon.png",
-            "tituloCard": "Derecho Corporativo",
-            "descriptionCard": "Descripción de la carta 2 del abogado"
-          },
-          {
-            "iconoCard": "/src/assets_project/card3-icon.png",
-            "tituloCard": "Derecho Corporativo",
-            "descriptionCard": "Descripción de la carta 3 del abogado"
-          }
-        ]
-    },
-    {
-        "path": "/secretaria",
-        "title": "Secretaria",
-        "image": "/src/assets_project/Abogado.jpg",
-        "description": "Descripción del secretaria...",
-        "cards": [
-          {
-            "iconoCard": "/src/assets_project/Abogado.svg",
-            "tituloCard": "Derecho Corporativo",
-            "descriptionCard": "Descripción de la carta 1 del abogado"
-          },
-          {
-            "iconoCard": "/src/assets_project/Abogado.svg",
-            "tituloCard": "Derecho Corporativo",
-            "descriptionCard": "Descripción de la carta 2 del abogado"
-          },
-          {
-            "iconoCard": "/src/assets_project/Abogado.svg",
-            "tituloCard": "Derecho Corporativo",
-            "descriptionCard": "Descripción de la carta 3 del abogado"
-          }
-        ]
-    },
-    {
-        "path": "/contador",
-        "title": "Contador",
-        "image": "/src/assets_project/Abogado.jpg",
-        "description": "Descripción del contador...",
-        "cards": [
-          {
-            "iconoCard": "/src/assets_project/Abogado.svg",
-            "tituloCard": "Derecho Corporativo",
-            "descriptionCard": "Descripción de la carta 1 del abogado"
-          },
-          {
-            "iconoCard": "/src/assets_project/Abogado.svg",
-            "tituloCard": "Derecho Corporativo",
-            "descriptionCard": "Descripción de la carta 2 del abogado"
-          },
-          {
-            "iconoCard": "/src/assets_project/Abogado.svg",
-            "tituloCard": "AAAAAAAAAAAAAa",
-            "descriptionCard": "Descripción de la carta 3 del abogado"
-          }
-        ]
-    }
-  ]
+  {
+    "path": "/abogado",
+    "title": "Abogado",
+    "image": "/src/assets_project/Abogado.jpg",
+    "description": "Estamos comprometidos a ser tu aliado en cuestiones legales. Nuestro equipo de abogados altamente calificados se dedica a brindarte representación legal sólida y soluciones efectivas para tus necesidades legales. Con un historial de éxitos en casos civiles, penales y empresariales, nuestro equipo tiene la experiencia necesaria para luchar en tu nombre y obtener resultados favorables. Ya sea que enfrentes un desafío legal complejo o busques asesoramiento preventivo, estamos aquí para proteger tus derechos e intereses.",
+    "cards": [
+      {
+        "iconoCard": "/src/assets_project/Abogado.svg",
+        "tituloCard": "Derecho Corporativo",
+        "descriptionCard": "Brindamos asesoramiento completo para empresas en todas las etapas de su desarrollo, desde la constitución hasta la resolución de conflictos contractuales y la reestructuración empresarial."
+      },
+      {
+        "iconoCard": "/src/assets_project/Abogado.svg",
+        "tituloCard": "Derecho Corporativo",
+        "descriptionCard": "Brindamos asesoramiento completo para empresas en todas las etapas de su desarrollo, desde la constitución hasta la resolución de conflictos contractuales y la reestructuración empresarial."
+      },
+      {
+        "iconoCard": "/src/assets_project/Abogado.svg",
+        "tituloCard": "Derecho Corporativo",
+        "descriptionCard": "Brindamos asesoramiento completo para empresas en todas las etapas de su desarrollo, desde la constitución hasta la resolución de conflictos contractuales y la reestructuración empresarial."
+      }
+    ]
+  },
+  {
+    "path": "/desarrollador",
+    "title": "Desarrollador",
+    "image": "/src/assets_project/Desarrollador.jpg",
+    "description": "Estamos dedicados a hacer tus ideas realidad en el mundo digital. Nuestro equipo de desarrolladores altamente competentes trabaja incansablemente para crear soluciones tecnológicas innovadoras. Ya sea que necesites un sitio web impresionante, una aplicación móvil personalizada o una solución de software a medida, estamos aquí para hacerlo posible. Con una sólida experiencia en una variedad de tecnologías y un historial de proyectos exitosos, podemos llevar tus conceptos a la vida digital. Tu visión es nuestro objetivo.",
+    "cards": [
+      {
+        "iconoCard": "/src/assets_project/Desarrollador.svg",
+        "tituloCard": "Desarrollo Web",
+        "descriptionCard": "Creamos plataformas web que combinan funcionalidad y diseño, adaptadas a las necesidades individuales de cada proyecto, desde sitios corporativos hasta complejos sistemas de comercio electrónico."
+      },
+      {
+        "iconoCard": "/src/assets_project/Desarrollador.svg",
+        "tituloCard": "Desarrollo Web",
+        "descriptionCard": "Creamos plataformas web que combinan funcionalidad y diseño, adaptadas a las necesidades individuales de cada proyecto, desde sitios corporativos hasta complejos sistemas de comercio electrónico."
+      },
+      {
+        "iconoCard": "/src/assets_project/Desarrollador.svg",
+        "tituloCard": "Desarrollo Web",
+        "descriptionCard": "Creamos plataformas web que combinan funcionalidad y diseño, adaptadas a las necesidades individuales de cada proyecto, desde sitios corporativos hasta complejos sistemas de comercio electrónico."
+      }
+    ]
+  },
+  {
+    "path": "/marketing",
+    "title": "Marketing",
+    "image": "/src/assets_project/Marketing.jpg",
+    "description": "Estamos comprometidos a impulsar tu presencia en línea y aumentar tu éxito en el mercado. Nuestro equipo de expertos en marketing digital está listo para diseñar estrategias efectivas que generen resultados. Desde SEO y publicidad en redes sociales hasta campañas de correo electrónico, ofrecemos soluciones de marketing personalizadas que se ajustan a tus necesidades. Con un historial de campañas exitosas y un enfoque en el retorno de la inversión, somos tu socio de confianza para el crecimiento en línea.",
+    "cards": [
+      {
+        "iconoCard": "/src/assets_project/Marketing.svg",
+        "tituloCard": "Campañas Creativas",
+        "descriptionCard": "Desarrollamos campañas publicitarias innovadoras que cautivan a la audiencia, destacando la identidad de la marca y generando interacción."
+      },
+      {
+        "iconoCard": "/src/assets_project/Marketing.svg",
+        "tituloCard": "Campañas Creativas",
+        "descriptionCard": "Desarrollamos campañas publicitarias innovadoras que cautivan a la audiencia, destacando la identidad de la marca y generando interacción."
+      },
+      {
+        "iconoCard": "/src/assets_project/Marketing.svg",
+        "tituloCard": "Campañas Creativas",
+        "descriptionCard": "Desarrollamos campañas publicitarias innovadoras que cautivan a la audiencia, destacando la identidad de la marca y generando interacción."
+      }
+    ]
+  },
+  {
+    "path": "/secretaria",
+    "title": "Secretaria",
+    "image": "/src/assets_project/Secretaria.jpg",
+    "description": "En el ámbito de la asistencia administrativa, nuestro enfoque es simplificar tu vida profesional. Nuestro equipo de asistentes virtuales altamente organizados está listo para brindarte asistencia administrativa de primer nivel. Ya sea programando citas, gestionando correos electrónicos o brindando atención al cliente, estamos aquí para facilitarte la vida. Con una experiencia probada en ayudar a empresas y profesionales a mantenerse organizados, somos tu solución para tareas administrativas eficientes y efectivas.",
+    "cards": [
+      {
+        "iconoCard": "/src/assets_project/Secretaria.svg",
+        "tituloCard": "Gestion Administrativa",
+        "descriptionCard": "Coordinamos de manera precisa y eficaz las labores administrativas, desde la logística hasta la gestión documental, manteniendo la organización interna de la empresa."
+      },
+      {
+        "iconoCard": "/src/assets_project/Secretaria.svg",
+        "tituloCard": "Gestion Administrativa",
+        "descriptionCard": "Coordinamos de manera precisa y eficaz las labores administrativas, desde la logística hasta la gestión documental, manteniendo la organización interna de la empresa."
+      },
+      {
+        "iconoCard": "/src/assets_project/Secretaria.svg",
+        "tituloCard": "Gestion Administrativa",
+        "descriptionCard": "Coordinamos de manera precisa y eficaz las labores administrativas, desde la logística hasta la gestión documental, manteniendo la organización interna de la empresa."
+      }
+    ]
+  },
+  {
+    "path": "/contador",
+    "title": "Contador",
+    "image": "/src/assets_project/Contador.jpg",
+    "description": "Entendemos que la gestión financiera es esencial para tu éxito. Nuestro equipo de contadores altamente capacitados está comprometido en brindarte servicios contables confiables y asesoramiento financiero experto. Desde la preparación de impuestos hasta la auditoría y la planificación financiera, estamos aquí para ayudarte a mantener tus asuntos financieros en orden. Con una amplia experiencia y un historial de clientes satisfechos, somos tu socio de confianza para una gestión financiera sólida.",
+    "cards": [
+      {
+        "iconoCard": "/src/assets_project/Contador.svg",
+        "tituloCard": "Contabilidad Financiera",
+        "descriptionCard": "Gestionamos y mantenemos registros financieros precisos, asegurando el cumplimiento normativo y proporcionando información clara y oportuna sobre la situación financiera."
+      },
+      {
+        "iconoCard": "/src/assets_project/Contador.svg",
+        "tituloCard": "Contabilidad Financiera",
+        "descriptionCard": "Gestionamos y mantenemos registros financieros precisos, asegurando el cumplimiento normativo y proporcionando información clara y oportuna sobre la situación financiera."
+      },
+      {
+        "iconoCard": "/src/assets_project/Contador.svg",
+        "tituloCard": "Contabilidad Financiera",
+        "descriptionCard": "Gestionamos y mantenemos registros financieros precisos, asegurando el cumplimiento normativo y proporcionando información clara y oportuna sobre la situación financiera."
+      }
+    ]
+  },
+  {
+    "path": "/gerente",
+    "title": "Gerente",
+    "image": "/src/assets_project/Gerente.jpg",
+    "description": "En el rol de liderazgo estratégico, nuestro gerente es un apasionado por el crecimiento empresarial y la excelencia operativa. Con una vasta experiencia en liderazgo, planificación y gestión de equipos, nuestro gerente está comprometido a llevar a tu empresa hacia el éxito. Desde el desarrollo de estrategias innovadoras hasta la optimización de procesos, nuestro gerente es el socio ideal para llevar tu empresa al siguiente nivel.",
+    "cards": [
+      {
+        "iconoCard": "/src/assets_project/Gerente.svg",
+        "tituloCard": "Liderazgo Estratégico",
+        "descriptionCard": "Liderazgo en la formulación y ejecución de estrategias empresariales, orientadas al crecimiento y la rentabilidad sostenible."
+      },
+      {
+        "iconoCard": "/src/assets_project/Gerente.svg",
+        "tituloCard": "Gestión de Equipos",
+        "descriptionCard": "Capacidad para dirigir y motivar equipos, fomentando la colaboración y maximizando el potencial de cada miembro."
+      },
+      {
+        "iconoCard": "/src/assets_project/Gerente.svg",
+        "tituloCard": "Optimización Empresarial",
+        "descriptionCard": "Enfoque en la mejora continua de procesos para lograr eficiencia operativa y excelencia en la prestación de servicios."
+      }
+    ]
+  }
   
+]
