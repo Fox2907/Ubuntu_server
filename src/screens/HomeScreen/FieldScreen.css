@@ -1,12 +1,16 @@
-.container {
+.container-fieldscreen {
+    display: flex;
+    flex-direction: column;
+}
+.profession {
     display: flex;
     width: 50%;
-    height: 60vh;
+    height: 45vh;
     border-radius: 10px;
     overflow: hidden;
-    background-color: hsl(240, 100%, 5%);
+    background-color: #776B5D;
     margin: auto;
-    margin-top: 100px;
+    margin-top: 20px;
 }
 
 .description {
@@ -46,4 +50,11 @@
     object-fit: cover;
     opacity: 0.4;
     object-position: 0 center;
+}
+
+.cards-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px;
 }

@@ -1,31 +1,32 @@
-
 .header {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    background-color: #FFFFFF;
-    padding: 10px 0;
-    margin: 0;
-    height: 120px;
-    align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: #b0a695;
+  padding: 10px 0;
+  margin: 0;
+  height: 50px;
+  width: 100%;
+  align-items: center;
 }
 
 a:-webkit-any-link {
-    text-decoration: none;
+  text-decoration: none;
+  color: #ffffff;
 }
 
 .logo {
-    display: flex;
-    align-items: center;
+  display: flex;
+  align-items: center;
 }
 
 .logo img {
-    display: flex;
-    width: 60px;
-    height: auto;
-    align-items: center ;
+  display: flex;
+  width: 60px;
+  height: auto;
+  align-items: center;
 }
 
 .nav {
-    display: flex;
+  display: flex;
 }

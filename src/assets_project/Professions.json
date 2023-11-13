@@ -1,0 +1,119 @@
+[
+    {
+      "path": "/abogado",
+      "title": "Abogado",
+      "image": "/src/assets_project/Abogado.jpg",
+      "description": "Descripción del abogado...",
+      "cards": [
+        {
+          "iconoCard": "/src/assets_project/Abogado.svg",
+          "tituloCard": "Derecho Corporativo",
+          "descriptionCard": "Descripción de la carta 1 del abogado"
+        },
+        {
+          "iconoCard": "/src/assets_project/Abogado.svg",
+          "tituloCard": "Derecho Corporativo",
+          "descriptionCard": "Descripción de la carta 2 del abogado"
+        },
+        {
+          "iconoCard": "/src/assets_project/Abogado.svg",
+          "tituloCard": "Derecho Corporativo",
+          "descriptionCard": "Descripción de la carta 3 del abogado"
+        }
+      ]
+
+    },
+    {
+      "path": "/desarrollador",
+      "title": "Desarrollador",
+      "image": "/src/assets_project/Abogado.jpg",
+      "description": "Descripción del desarrollador...",
+      "cards": [
+        {
+          "iconoCard": "/src/assets_project/card1-icon.png",
+          "tituloCard": "Derecho Corporativo",
+          "descriptionCard": "Descripción de la carta 1 del abogado"
+        },
+        {
+          "iconoCard": "/src/assets_project/card2-icon.png",
+          "tituloCard": "Derecho Corporativo",
+          "descriptionCard": "Descripción de la carta 2 del abogado"
+        },
+        {
+          "iconoCard": "/src/assets_project/card3-icon.png",
+          "tituloCard": "Derecho Corporativo",
+          "descriptionCard": "Descripción de la carta 3 del abogado"
+        }
+      ]
+    },
+    {
+        "path": "/marketing",
+        "title": "Marketing",
+        "image": "/src/assets_project/Abogado.jpg",
+        "description": "Descripción del marketing...",
+        "cards": [
+          {
+            "iconoCard": "/src/assets_project/card1-icon.png",
+            "tituloCard": "Derecho Corporativo",
+            "descriptionCard": "Descripción de la carta 1 del abogado"
+          },
+          {
+            "iconoCard": "/src/assets_project/card2-icon.png",
+            "tituloCard": "Derecho Corporativo",
+            "descriptionCard": "Descripción de la carta 2 del abogado"
+          },
+          {
+            "iconoCard": "/src/assets_project/card3-icon.png",
+            "tituloCard": "Derecho Corporativo",
+            "descriptionCard": "Descripción de la carta 3 del abogado"
+          }
+        ]
+    },
+    {
+        "path": "/secretaria",
+        "title": "Secretaria",
+        "image": "/src/assets_project/Abogado.jpg",
+        "description": "Descripción del secretaria...",
+        "cards": [
+          {
+            "iconoCard": "/src/assets_project/Abogado.svg",
+            "tituloCard": "Derecho Corporativo",
+            "descriptionCard": "Descripción de la carta 1 del abogado"
+          },
+          {
+            "iconoCard": "/src/assets_project/Abogado.svg",
+            "tituloCard": "Derecho Corporativo",
+            "descriptionCard": "Descripción de la carta 2 del abogado"
+          },
+          {
+            "iconoCard": "/src/assets_project/Abogado.svg",
+            "tituloCard": "Derecho Corporativo",
+            "descriptionCard": "Descripción de la carta 3 del abogado"
+          }
+        ]
+    },
+    {
+        "path": "/contador",
+        "title": "Contador",
+        "image": "/src/assets_project/Abogado.jpg",
+        "description": "Descripción del contador...",
+        "cards": [
+          {
+            "iconoCard": "/src/assets_project/Abogado.svg",
+            "tituloCard": "Derecho Corporativo",
+            "descriptionCard": "Descripción de la carta 1 del abogado"
+          },
+          {
+            "iconoCard": "/src/assets_project/Abogado.svg",
+            "tituloCard": "Derecho Corporativo",
+            "descriptionCard": "Descripción de la carta 2 del abogado"
+          },
+          {
+            "iconoCard": "/src/assets_project/Abogado.svg",
+            "tituloCard": "AAAAAAAAAAAAAa",
+            "descriptionCard": "Descripción de la carta 3 del abogado"
+          }
+        ]
+    }
+  ]
+  

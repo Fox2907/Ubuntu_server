@@ -1,22 +1,35 @@
-import './App.css'
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Navbar from './components/Navbar'
-import FieldScreen from './screens/HomeScreen/FieldScreen'
-import HomeScreen from './screens/HomeScreen/HomeScreen'
+import "./App.css";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Navbar from "./components/Navbar";
+import FieldScreen from "./screens/HomeScreen/FieldScreen";
+import HomeScreen from "./screens/HomeScreen/HomeScreen";
+import Footer from "./components/Footer";
+import professions from '/src/assets_project/Professions.json'
 
 function App() {
-
   return (
-    
     <BrowserRouter>
-      <Navbar/>
+      <Navbar />
       <Routes>
-        <Route path="/" element={<HomeScreen/>} />
-        <Route path="/abogado" element={<FieldScreen titulo={"Abogado"} imagen={"/src/assets_project/Abogado.jpg"} descripcion={"En el ámbito legal, estamos comprometidos a ser tu aliado en cuestiones legales. Nuestro equipo de abogados altamente calificados se dedica a brindarte representación legal sólida y soluciones efectivas para tus necesidades legales. Con un historial de éxitos en casos civiles, penales y empresariales, nuestro equipo tiene la experiencia necesaria para luchar en tu nombre y obtener resultados favorables. Ya sea que enfrentes un desafío legal complejo o busques asesoramiento preventivo, estamos aquí para proteger tus derechos e intereses."}/>} />
-        <Route path="/desarrollador" element={<FieldScreen titulo={"Desarrollador"} imagen={"/src/assets_project/Abogado.jpg"} descripcion={"En el ámbito legal, estamos comprometidos a ser tu aliado en cuestiones legales. Nuestro equipo de abogados altamente calificados se dedica a brindarte representación legal sólida y soluciones efectivas para tus necesidades legales. Con un historial de éxitos en casos civiles, penales y empresariales, nuestro equipo tiene la experiencia necesaria para luchar en tu nombre y obtener resultados favorables. Ya sea que enfrentes un desafío legal complejo o busques asesoramiento preventivo, estamos aquí para proteger tus derechos e intereses."}/>} />
+        <Route path="/" element={<HomeScreen />} />
+        {professions.map((route, index) => (
+          <Route
+            key={index}
+            path={route.path}
+            element={
+              <FieldScreen
+                titulo={route.title}
+                imagen={route.image}
+                descripcion={route.description}
+                cards={route.cards}
+              />
+            }
+          />
+        ))}
       </Routes>
-    </BrowserRouter> 
-  )
+      <Footer />
+    </BrowserRouter>
+  );
 }
 
-export default App
+export default App;

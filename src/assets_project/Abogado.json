@@ -1,0 +1,14 @@
+[
+    {
+      "iconoCard": "/src/assets_project/Abogado_icono_1.svg",
+      "descriptionCard": "Descripción de la carta 1"
+    },
+    {
+      "iconoCard": "/src/assets_project/Abogado_icono_1",
+      "descriptionCard": "Descripción de la carta 2"
+    },
+    {
+      "iconoCard": "/src/assets_project/Abogado_icono_1",
+      "descriptionCard": "Descripción de la carta 3"
+    }
+  ]
